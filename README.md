@@ -7,7 +7,7 @@ The repository is organized by structural complexity. Each directory houses the 
 ```text
 Waveguide-Chronicles/
 │
-├── 01_Classic_Geometries/      # Rectangular, circular
+├── 01_Classic_Geometries/      # circular with TE and TM modes of excitation
 ├── 02_Twists_and_Bends/        # E-plane/H-plane bends, continuous twists
 ├── 03_Flares_and_Transitions/  # Horns, tapered impedance matchers
 ├── 04_Slots_and_Couplings/     # Iris, wall slots, directional couplers
